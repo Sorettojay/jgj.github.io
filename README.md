@@ -1,3 +1,3 @@
 # jgj.github.io
 
-<h1>Testing</h1>
+Portfolio website of Jimmy Gray-Jones
